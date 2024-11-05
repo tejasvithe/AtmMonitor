@@ -1,0 +1,5 @@
+INSERT INTO transaction_logs ( created_by, updated_by, type, status, customer_id, atm_id) VALUES ( 'test@gmail.com','test@gmail.com','DEPOSIT','SUCCESS',1,123);
+INSERT INTO transaction_logs ( created_by, updated_by, type, status, customer_id, atm_id) VALUES ( 'test@gmail.com','test@gmail.com','DEPOSIT','SUCCESS',2,123);
+INSERT INTO transaction_logs ( created_by, updated_by, type, status, customer_id, atm_id) VALUES ( 'test@gmail.com','test@gmail.com','DEPOSIT','SUCCESS',3,123);
+INSERT INTO transaction_logs ( created_by, updated_by, type, status, customer_id, atm_id) VALUES ( 'test@gmail.com','test@gmail.com','DEPOSIT','SUCCESS',4,123);
+INSERT INTO transaction_logs ( created_by, updated_by, type, status, customer_id, atm_id) VALUES ( 'test@gmail.com','test@gmail.com','DEPOSIT','SUCCESS',5,123);
